@@ -1,0 +1,20 @@
+{
+  "name": "mystere-en-4-images",
+  "version": "1.0.0",
+  "description": "Un jeu développé avec Electron basé sur le concept de 4 images 1 mot.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "Jeu",
+    "4-images"
+  ],
+  "author": "Ton Nom",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.3.1"
+  },
+  "dependencies": {}
+}
